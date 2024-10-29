@@ -69,3 +69,9 @@ In training a neural network, data flows through the layers (forward propagation
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/aafc14e6-1e11-451d-b360-ccdc8c86f13c">
 
 This image represents the inference process in a neural network. During inference, new input data (smaller and varied compared to the training set) is passed through the network in a forward direction. The network, using learned weights, processes the input to produce a prediction (e.g., “Human Face”). Inference is the stage where the trained model is used to make predictions on unseen data without adjusting any weights.
+
+#### Dataset
+
+- *Kaggle link: https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data .
+
+- *Direct link: https://drive.google.com/drive/folders/1-2gVprcVKLaje1gsayxQgVFItyXgxvPn?usp=sharing .
